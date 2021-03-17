@@ -1,0 +1,15 @@
+html{
+    font-size: 10px;
+}
+body{
+    /* font-size: 62.5%; */
+    background: blue;
+}
+h1{
+    font-size: 10rem;
+}
+@media (max-width: 500px){
+    h1{
+        font-size: 2px;
+    }
+}
